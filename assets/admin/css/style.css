@@ -1,0 +1,8 @@
+.error {
+    font-size: 12px;
+    color: #FF0000;
+    float: left;
+    width: 100%;
+}
+
+.dataTables_wrapper > div.row{ margin: 0}
